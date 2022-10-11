@@ -1,0 +1,58 @@
+{
+	"storyName": "Whats beyond the door?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "weekDOOR",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"balls-stuck",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		],
+		[
+			"doorfreeman",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		],
+		[
+			"door-madness",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		],
+		[
+			"alliance",
+			"tankman",
+			[
+				235,
+				80,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "DOOR STUCK"
+}

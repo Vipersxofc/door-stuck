@@ -1,0 +1,49 @@
+{
+	"storyName": "CANT MAKE IT SHITS STUCK",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"genuine-sucker",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		],
+		[
+			"door-stuck",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		],
+		[
+			"cant-make-it",
+			"doorstuck",
+			[
+				235,
+				80,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "DOORSTUCK-main"
+}
