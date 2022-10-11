@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				175
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "respawn"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				87,
+				175
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathloop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankmandies",
+	"position": [
+		-370,
+		410
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		40,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
