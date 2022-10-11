@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankmandies.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deathloop0000" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0001" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0002" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0003" x="1800" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0004" x="2400" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0005" x="3000" y="0" width="600" height="600"/>
+	<SubTexture name="deathloop0006" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0007" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0008" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0009" x="1800" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0010" x="2400" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0011" x="3000" y="600" width="600" height="600"/>
+	<SubTexture name="deathloop0012" x="0" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0013" x="600" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0014" x="1200" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0015" x="1800" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0016" x="2400" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0017" x="3000" y="1200" width="600" height="600"/>
+	<SubTexture name="deathloop0018" x="0" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0019" x="600" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0020" x="1200" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0021" x="1800" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0022" x="2400" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0023" x="3000" y="1800" width="600" height="600"/>
+	<SubTexture name="deathloop0024" x="0" y="2400" width="600" height="600"/>
+	<SubTexture name="deathloop0025" x="600" y="2400" width="600" height="600"/>
+	<SubTexture name="dies0000" x="1200" y="2400" width="600" height="600"/>
+	<SubTexture name="dies0001" x="1800" y="2400" width="600" height="600"/>
+	<SubTexture name="dies0002" x="2400" y="2400" width="600" height="600"/>
+	<SubTexture name="dies0003" x="3000" y="2400" width="600" height="600"/>
+	<SubTexture name="dies0004" x="0" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0005" x="600" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0006" x="1200" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0007" x="1800" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0008" x="2400" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0009" x="3000" y="3000" width="600" height="600"/>
+	<SubTexture name="dies0010" x="0" y="3600" width="600" height="600"/>
+	<SubTexture name="dies0011" x="600" y="3600" width="600" height="600"/>
+	<SubTexture name="respawn0000" x="1200" y="3600" width="600" height="758"/>
+	<SubTexture name="respawn0001" x="1800" y="3600" width="600" height="758"/>
+	<SubTexture name="respawn0002" x="2400" y="3600" width="600" height="758"/>
+	<SubTexture name="respawn0003" x="3000" y="3600" width="600" height="758"/>
+	<SubTexture name="respawn0004" x="0" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0005" x="600" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0006" x="1200" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0007" x="1800" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0008" x="2400" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0009" x="3000" y="4358" width="600" height="758"/>
+	<SubTexture name="respawn0010" x="0" y="5116" width="600" height="758"/>
+	<SubTexture name="respawn0011" x="600" y="5116" width="600" height="758"/>
+	<SubTexture name="respawn0012" x="1200" y="5116" width="600" height="758"/>
+	<SubTexture name="respawn0013" x="1800" y="5116" width="600" height="758"/>
+	<SubTexture name="respawn0014" x="2400" y="5116" width="600" height="758"/>
+	<SubTexture name="respawn0015" x="3000" y="5116" width="600" height="758"/>
+</TextureAtlas>
